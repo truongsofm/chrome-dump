@@ -15,4 +15,4 @@ Khi kẻ gian truy cập được vào máy tính của bạn thì một trong n
 Đối với mình chỉ cần viết sẵn một script để sẳn trong usb, cắm usb vào máy tính và chưa cần tới 5s là có file chứa pass rồi.
 Có cả tá đoạn code dump pass browser như thế được public đầy trên github.
 
-Nên lời khuyên là các bạn không nên sử dụng chức năng lưu mật khẩu trên trình duyệt. Bài sau mình sẽ giới thiệu một công cụ khác giúp ghi nhớ pass bảo mật hơn. 
+Nên lời khuyên là các bạn không nên sử dụng chức năng lưu mật khẩu trên trình duyệt.
